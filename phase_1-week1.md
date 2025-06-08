@@ -707,8 +707,8 @@ The address 0x10012000 is 4-byte aligned (divisible by 4), which is necessary fo
 </details> 
 
 <details> <summary><strong>Minimal Example of `crt0.S`</strong></summary><br>
-  ![image](https://github.com/user-attachments/assets/eeb2cf9c-6e64-4058-b81e-a6ddeb137c1f)
 
+![image](https://github.com/user-attachments/assets/eeb2cf9c-6e64-4058-b81e-a6ddeb137c1f)
 
 
 </details>
@@ -1011,8 +1011,8 @@ Is RV32 little-endian by default? Show how to verify byte ordering with a union 
 
 <details>
 <summary><b>Steps to check endianness in C</b></summary><br>
-![image](https://github.com/user-attachments/assets/4f937562-8ff4-4b5e-98c5-839c2b0e2ceb)
 
+![image](https://github.com/user-attachments/assets/4f937562-8ff4-4b5e-98c5-839c2b0e2ceb)
 
 ---
 
